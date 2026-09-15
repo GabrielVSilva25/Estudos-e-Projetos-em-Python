@@ -2,13 +2,9 @@
 
 Repositório organizado a partir dos meus exercícios e projetos de estudo em Python.
 
-## Estrutura
+- `projetos/`: reúne projetos práticos e programas mais completos desenvolvidos durante meus estudos.
 
-- `projetos/`: programas maiores e desafios com mais de uma funcionalidade.
-- `estudos/strings_e_texto/`: exercícios focados em strings e manipulação de texto.
-- `estudos/exercicios_python/`: sequência de exercícios gerais, mantendo a numeração original e adicionando nomes descritivos.
-- `estudos/alura_python_para_dados/`: exercícios do curso **Python para Dados**, com a ordem original preservada.
-- `estudos/exercicios_diversos/`: exercícios avulsos, com nomes padronizados em `snake_case`.
+- `estudos/`: reúne exercícios, testes, práticas e pequenos desafios em Python, mantendo tudo em uma única pasta para facilitar a organização e a navegação.
 
 ## Convenção de nomes
 
