@@ -1,0 +1,10 @@
+tipo = input('Digite algo: ')
+
+print(f'O dado informado é do tipo {type(tipo)}')
+print(f'Só tem espaços? {tipo.isspace()}')
+print(f'É um número? {tipo.isnumeric()}')
+print(f'É alfabético? {tipo.isalpha()}')
+print(f'É alfanúmerico? {tipo.isalnum()}')
+print(f'É maiusculo? {tipo.isupper()}')
+print(f'É minusculo? {tipo.islower()}')
+print(f'Está capitalizada? {tipo.istitle()}')
